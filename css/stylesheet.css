@@ -19,9 +19,9 @@ header .pfp{
     width: 200px;
     height: 200px;
     border-radius: 50%;
+    border: 20px solid white;
     /* border: 20px solid yellow; */
     border-width: 10px;
-    border-color: white;
     background-image: url('./../img/bart-simpson.jpg');
     background-repeat: no-repeat;
     background-position: -180px 0;
