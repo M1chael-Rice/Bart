@@ -20,7 +20,8 @@ header img{
     height: 200px;
     border-radius: 50%;
     /* border: 20px solid yellow; */
-    border-width: 5px;
+    border-width: 50px solid;
+    border-color: yellow;
 }
 
 header h1{
