@@ -15,14 +15,12 @@ header{
     padding: 20px;
 }
 
-header .pfp{
+header img{
     width: 200px;
     height: 200px;
-    border-radius: 50%;
-    border: 20px solid white;
-    /* border: 20px solid yellow; */
-    border-width: 50px solid;
-    border-color: yellow;
+    border-radius:50%;
+    border: 10px solid white;
+    border-width: 10px solid;
 }
 
 header h1{
