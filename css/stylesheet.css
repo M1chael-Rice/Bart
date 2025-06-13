@@ -15,12 +15,18 @@ header{
     padding: 20px;
 }
 
-header img{
+header .pfp{
     width: 200px;
     height: 200px;
     border-radius: 50%;
+    border: 20px solid white;
     /* border: 20px solid yellow; */
-    border-width: 5px;
+    border-width: 10px;
+    background-image: url('./../img/bart-simpson.jpg');
+    background-repeat: no-repeat;
+    background-position: -180px 0;
+    background-size: 300%;
+    margin: 0 auto;
 }
 
 header h1{
